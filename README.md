@@ -4,6 +4,7 @@
 En este repo se puede encontrar la solución con la que alcancé el primer puesto en el leaderboard público de la competencia de [Metadata ECI Clasificación de preguntas de clientes](https://metadata.fundacionsadosky.org.ar/competition/21/).
 
 La solución está basada en un **Voting** Hard sobre **6 modelos** entrenados sobre [BETO](https://github.com/dccuchile/beto).
+Utilicé la biblioteca [huggingface](https://github.com/huggingface) y [Pytorch](https://pytorch.org/) para la implementación.
 
 El código está dividido en dos partes: **modelado del lenguaje** y **clasificador**.
 
