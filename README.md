@@ -9,8 +9,11 @@ El código está dividido en dos partes: **modelado del lenguaje** y **clasifica
 
 
 # Modelado del lenguaje
-En el notebook **language_modeling** se puede encontrar el finetuning realizado sobre Beto para adaptarlo al problema
+En el notebook **Language Model** se puede encontrar el finetuning realizado sobre Beto para adaptarlo al problema
 
 # Clasificador
 En el notebook **Ensamble de Betos** se encuentra el código utilizado para los múltiples entrenamientos y las predicciones.
+
+En la siguiente imagen se pueden ver el score alcanzado en entrenamiento de lo 6 mejores modelos:
+![Mejores modelos en Balanced Accuracy](mejores_6.png)
 
